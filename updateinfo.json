@@ -1,13 +1,13 @@
 {
-"newVersion":"5.57",
-"newVcode":"557",
+"newVersion":"1.0",
+"newVcode":"10",
 "FFSGVerNew":"1.0",
 "FFSGCodeNew":"11", 
 "dialogTitle":"CATATAN",
-"dialogSubtitle":"Udh dulu ygy",
+"dialogSubtitle":"Makasih Tester, tunggu tanggal update yah :)",
 "dialogInfo":"[INFO] If you play games other than Free Fire, you can use the latest version of (Optimizer Go) on Playstore :)",
 "visibleButton":"true",
-"textButton":"Ngoghey",
-"upLink":"",
+"textButton":"Oke",
+"upLink":"exit",
 "dialogCancelable":"false"
 }
