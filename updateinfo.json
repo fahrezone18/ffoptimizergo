@@ -1,13 +1,13 @@
 {
-"newVersion":"1.0",
-"newVcode":"10",
+"newVersion":"1.21",
+"newVcode":"121",
 "FFSGVerNew":"1.0",
 "FFSGCodeNew":"11", 
-"dialogTitle":"UPDATE",
-"dialogSubtitle":"Update Available, you can Update on Playstore",
+"dialogTitle":"NOTES",
+"dialogSubtitle":"Sorry for the error that occurred, the server was under maintenance suddenly, but now it's fixed, thanks :)\n\n~ FahrezONE",
 "dialogInfo":"[INFO] If you play games other than Free Fire, you can use the latest version of (Optimizer Go) on Playstore :)",
 "visibleButton":"true",
 "textButton":"Oke",
-"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.ff",
-"dialogCancelable":"false"
+"upLink":"",
+"dialogCancelable":"true"
 }
