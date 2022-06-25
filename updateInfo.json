@@ -1,10 +1,10 @@
 {
-"newVersion":"1.36",
-"newVcode":"136",
+"newVersion":"1.40",
+"newVcode":"140",
 "dialogTitle":"UPDATE",
-"dialogSubtitle":"Hello Everyone!\nI just want to let you know that I have a new Feature \"Mode Extreme\", Try it now :)!\n\n~ FahrezONE",
+"dialogSubtitle":"Hello Everyone!\nI just want to let you know that I have a new Feature, Try it now :)!\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Watch",
-"upLink":"https://youtu.be/EOcgnjGiOMI",
+"textButton":"Update",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.ff",
 "forceUpdate":"false"
 }
